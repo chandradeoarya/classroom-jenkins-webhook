@@ -1,1 +1,1 @@
-print("Hello from jenkins webhook pipeline")
+print("Hello from jenkins webhook pipeline new commit")
